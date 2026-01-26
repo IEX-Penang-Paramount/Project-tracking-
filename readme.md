@@ -15,3 +15,5 @@ This file contains the necessary information for the IEX project - Project Param
 
 ## To other resources 🌙
 [IEX google drive](https://drive.google.com/drive/folders/1yDxOM83kWEMq3DIMijqGikQUeMYjw8Qj?usp=drive_link)
+[Senior website](https://sites.google.com/view/project-nelayan-sungai-batu/articles/fishing-journey?authuser=0)
+[IEX Admin instructions](https://nusu.sharepoint.com/:f:/r/sites/IExGuidesforStudents/Shared%20Documents/General/IEx%20Guides%20for%20Students?csf=1&web=1&e=0CL7jC)
